@@ -1,0 +1,23 @@
+{
+  "name": "react-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Justonice2019/react-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Justonice2019/react-cli/issues"
+  },
+  "homepage": "https://github.com/Justonice2019/react-cli#readme",
+  "bin": {
+    "react-cli": "./bin/react-cli.js"
+  }
+}
