@@ -1,16 +1,12 @@
 {
-  "name": "react-cli",
+  "name": "@justonice/react-cli",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "description": "justonice的React脚手架工具",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Justonice2019/react-cli.git"
   },
-  "keywords": [],
+  "keywords": ["React", "cli", "脚手架"],
   "author": "",
   "license": "ISC",
   "bugs": {
