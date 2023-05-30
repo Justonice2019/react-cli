@@ -3,6 +3,7 @@ const fs = require('fs')
 const path = require('path')
 const chalk = require('chalk')
 const create = require('../lib/create')
+console.log('x')
 
 const program = require('commander')
 program
