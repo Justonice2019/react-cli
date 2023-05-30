@@ -6,7 +6,11 @@
     "type": "git",
     "url": "git+https://github.com/Justonice2019/react-cli.git"
   },
-  "keywords": ["React", "cli", "脚手架"],
+  "keywords": [
+    "react",
+    "cli",
+    "justonice"
+  ],
   "author": "justonice",
   "license": "ISC",
   "bugs": {
