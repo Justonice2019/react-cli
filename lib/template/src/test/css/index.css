@@ -1,0 +1,15 @@
+.box-css {
+    width: 100px;
+    height: 50px;
+    background: #00b0ff;
+    display: flex;
+    transform: rotate(0deg);
+}
+.box-bg {
+    width: 100px;
+    height: 100px;
+    background: url("../img/logo.jpg") no-repeat;
+    background-size: 100px 100px;
+    /*background: url("../img/logo.png") no-repeat;*/
+    /*background: url("../img/loading.gif") no-repeat;*/
+}
