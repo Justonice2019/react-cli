@@ -1,7 +1,7 @@
 {
   "name": "@justonice/react-cli",
-  "version": "1.0.23",
-  "description": "justonice的React脚手架工具",
+  "version": "1.0.24",
+  "description": "justonice's React cli tool",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Justonice2019/react-cli.git"

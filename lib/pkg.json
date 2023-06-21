@@ -9,7 +9,6 @@
     "build:debug": "react-cli-server --inspect-brk=9527 build",
     "react-cli-server:test": "react-cli-server start --config ./conf/tools.conf.js -w ./conf/webpack.dev.conf.js"
   },
-  "author": "justonice",
   "license": "ISC",
   "browserslist": [
     "ie >= 8"
